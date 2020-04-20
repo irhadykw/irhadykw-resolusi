@@ -1,4 +1,6 @@
 RENCANA KONTEN IRHADYKW
 - Membuat video JavaScript
+  # ES6
+  # Framework Javascript
 - PHP Framework
 - Interview
